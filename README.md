@@ -12,6 +12,6 @@ NEVER WORK WITH LIVE VOLTAGE. Always disconnect the power source before working 
 
 When performing electrical work, ALWAYS READ AND FOLLOW THE MANUFACTURERS INSTRUCTIONS AND SAFETY GUIDELINES. Always follow your local electrical code and requirements which are specific to local areas.
 
-By utilizing this project and the information given, YOU are expressly holding "Orange (Youtube Account)" HARMLESS FOR ANY PROPERTY DAMAGE, PERSONAL INJURY AND/OR DEATH, OR ANY OTHER LOSS OR DAMAGE THAT MAY RESULT FROM YOUR ACTIONS.
+By utilizing this project and the information given, YOU are expressly holding "Electronics128" HARMLESS FOR ANY PROPERTY DAMAGE, PERSONAL INJURY AND/OR DEATH, OR ANY OTHER LOSS OR DAMAGE THAT MAY RESULT FROM YOUR ACTIONS.
 
-This information is provided for the use of individuals as they see fit! Orange and Youtube and all parties associated with it are not responsible for the use and results of this information by any party, especially those lacking sufficient skill or knowledge to perform these steps safely and ANY HAZARD CREATED IS THE SOLE RESPONSIBILITY OF THE USER.
+This information is provided for the use of individuals as they see fit! Electronics128 and all parties associated with it are not responsible for the use and results of this information by any party, especially those lacking sufficient skill or knowledge to perform these steps safely and ANY HAZARD CREATED IS THE SOLE RESPONSIBILITY OF THE USER.
