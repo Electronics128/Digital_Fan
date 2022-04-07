@@ -6,7 +6,7 @@ This project is meant for informational purposes only! To better your knowledge 
 
 WARNING
 
-Electricity is dangerous and can cause personal injury or DEATH as well as other property loss or damage if not used or constructed properly. If you have any doubts what so ever about performing do-it-yourself electrical work, PLEASE do the smart thing and hire a QUALIFIED SPECIALIST to perform the work for you.
+Electricity is dangerous and can cause personal injury or DEATH as well as other property loss or damage if not used or constructed properly. If you have any doubts what so ever about performing do-it-yourself electrical work, PLEASE do the smart thing and DO NOT attempt this project.
 
 NEVER WORK WITH LIVE VOLTAGE. Always disconnect the power source before working with electrical circuits.
 
